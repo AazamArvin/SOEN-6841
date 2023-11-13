@@ -19,13 +19,7 @@ The central thesis of this report is to investigate how team organization impact
 To synthesize existing knowledge and theories related to team organization in project management.
 To analyze how different organizational structures affect team performance, creativity, and flexibility.
 To provide well-researched recommendations for optimal team organization in project environments.  
-
-## **Contribution Guidelines** 
-
-While this is an individual project, academic feedback, suggestions, and discussions are welcome. You can contribute by:
-Providing Feedback: Comment on the structure, content, and findings of the report.
-Suggesting Sources: Recommend additional academic sources or case studies for inclusion.
-Engaging in Discussions: Offer insights or raise questions on the 'Issues' page.  
+ 
 
 ## **Updates and Progress**  
 
